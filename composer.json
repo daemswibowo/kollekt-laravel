@@ -1,0 +1,16 @@
+{
+    "name": "karyakarsa/kollekt",
+    "autoload": {
+        "psr-4": {
+            "KaryaKarsa\\Kollekt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dimas Wibowo",
+            "email": "daemswibowo@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev"
+}
