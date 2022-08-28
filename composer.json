@@ -1,5 +1,5 @@
 {
-    "name": "daemswibowo/kollekt-laravel",
+    "name": "karyakarsa/kollekt",
     "autoload": {
         "psr-4": {
             "KaryaKarsa\\Kollekt\\": "src/"
